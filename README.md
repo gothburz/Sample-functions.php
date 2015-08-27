@@ -1,2 +1,2 @@
 # Sample-functions.php
-Sample functions.php file for wordpress development.
+Sample functions.php file used for WP development.
